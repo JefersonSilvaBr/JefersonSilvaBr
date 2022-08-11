@@ -1,16 +1,17 @@
-### Hi there 👋
+   Hello my name is **Jeferson Silva**.
+ <br>
+ *I am a beginner in the area of programming, currently focused on games.*
+ <br>
+ 
+ **Languages:**<br>
+[<img src="https://img.shields.io/badge/Java-238636?style=for-the-badge&logo=pytho&logoColor=blue" />](https://www.oracle.com/br/java/)
+[<img src="https://img.shields.io/badge/Python-238636?style=for-the-badge&logo=pytho&logoColor=blue" />](https://www.python.org/)
 
-<!--
-**JefersonSilvaBr/JefersonSilvaBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **IDEs:**<br>
+[<img src="https://img.shields.io/badge/Eclipse-238636?style=for-the-badge&logo=pytho&logoColor=blue" />](https://www.eclipse.org/downloads/)
+  
+ **Design:**<br>
+[<img src="https://img.shields.io/badge/ASEprite-238636?style=for-the-badge&logo=pytho&logoColor=blue" />](https://www.aseprite.org/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Games:**<br>
+[<img src="https://img.shields.io/badge/Itch.io-238636?style=for-the-badge&logo=pytho&logoColor=blue" />](https://jefersonsilvabr.itch.io/)
